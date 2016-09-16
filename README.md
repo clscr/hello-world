@@ -19,3 +19,7 @@ But for now take some time, RTFM, and figure it out if you can.
 
 http://matthew-brett.github.io/pydagogue/git_gui_windows.html
 https://nathanj.github.io/gitguide/tour.html
+
+Install Github Desktop
+https://desktop.github.com/
+
